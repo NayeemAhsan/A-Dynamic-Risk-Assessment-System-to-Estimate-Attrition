@@ -1,0 +1,32 @@
+Module "Current Version" "Latest Version"
+click 8.1.7 8.1.7
+cycler 0.12.1 0.12.1
+flask "Not installed" "Not installed"
+gunicorn 21.2.0 22.0.0
+itsdangerous 2.2.0 2.2.0
+jinja2 "Not installed" "Not installed"
+joblib 1.4.2 1.4.2
+json5 0.9.25 0.9.25
+jsonpointer 2.4 2.4
+jsonschema 4.22.0 4.22.0
+kiwisolver 1.4.5 1.4.5
+markupsafe "Not installed" "Not installed"
+matplotlib 3.7.3 3.7.5
+matplotlib-base "Not installed" "Not installed"
+matplotlib-inline 0.1.7 0.1.7
+numpy 1.24.4 1.24.4
+pandas 2.0.3 2.0.3
+pillow 10.3.0 10.3.0
+pip 24.0 24.0
+protobuf 4.25.3 5.27.0
+psutil 5.9.8 5.9.8
+pyparsing 3.1.2 3.1.2
+python "Not installed" "Not installed"
+python-dateutil 2.9.0 2.9.0.post0
+pytz 2024.1 2024.1
+scikit-learn 1.3.2 1.3.2
+scipy 1.10.1 1.10.1
+seaborn 0.12.2 0.13.2
+six 1.16.0 1.16.0
+threadpoolctl 3.5.0 3.5.0
+werkzeug "Not installed" "Not installed"

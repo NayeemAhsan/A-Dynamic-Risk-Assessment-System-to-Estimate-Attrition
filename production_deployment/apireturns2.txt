@@ -1,0 +1,223 @@
+Ingested Data
+
+Statistics Summary
+{
+  "lastmonth_activity": {
+    "mean": 165.65384615384616,
+    "median": 73.0,
+    "std": 284.0332293669446
+  },
+  "lastyear_activity": {
+    "mean": 1502.923076923077,
+    "median": 955.0,
+    "std": 2192.64495845683
+  },
+  "number_of_employees": {
+    "mean": 26.884615384615383,
+    "median": 14.0,
+    "std": 31.35388578543581
+  }
+}
+
+Diagnostics Summary
+{
+  "execution_time": [
+    {
+      "ingestion_time_mean": 0.34802635519954495
+    },
+    {
+      "training_time_mean": 0.7579483453999274
+    }
+  ],
+  "missing_percentage": {
+    "corporation": {
+      "percentage": 0.0
+    },
+    "exited": {
+      "percentage": 0.0
+    },
+    "lastmonth_activity": {
+      "percentage": 0.0
+    },
+    "lastyear_activity": {
+      "percentage": 0.0
+    },
+    "number_of_employees": {
+      "percentage": 0.0
+    }
+  },
+  "outdated_packages": [
+    {
+      "Current Version": "8.1.7",
+      "Latest Version": "8.1.7",
+      "Module": "click"
+    },
+    {
+      "Current Version": "0.12.1",
+      "Latest Version": "0.12.1",
+      "Module": "cycler"
+    },
+    {
+      "Current Version": "Not installed",
+      "Latest Version": "Not installed",
+      "Module": "flask"
+    },
+    {
+      "Current Version": "21.2.0",
+      "Latest Version": "22.0.0",
+      "Module": "gunicorn"
+    },
+    {
+      "Current Version": "2.2.0",
+      "Latest Version": "2.2.0",
+      "Module": "itsdangerous"
+    },
+    {
+      "Current Version": "Not installed",
+      "Latest Version": "Not installed",
+      "Module": "jinja2"
+    },
+    {
+      "Current Version": "1.4.2",
+      "Latest Version": "1.4.2",
+      "Module": "joblib"
+    },
+    {
+      "Current Version": "0.9.25",
+      "Latest Version": "0.9.25",
+      "Module": "json5"
+    },
+    {
+      "Current Version": "2.4",
+      "Latest Version": "2.4",
+      "Module": "jsonpointer"
+    },
+    {
+      "Current Version": "4.22.0",
+      "Latest Version": "4.22.0",
+      "Module": "jsonschema"
+    },
+    {
+      "Current Version": "1.4.5",
+      "Latest Version": "1.4.5",
+      "Module": "kiwisolver"
+    },
+    {
+      "Current Version": "Not installed",
+      "Latest Version": "Not installed",
+      "Module": "markupsafe"
+    },
+    {
+      "Current Version": "3.7.3",
+      "Latest Version": "3.7.5",
+      "Module": "matplotlib"
+    },
+    {
+      "Current Version": "Not installed",
+      "Latest Version": "Not installed",
+      "Module": "matplotlib-base"
+    },
+    {
+      "Current Version": "0.1.7",
+      "Latest Version": "0.1.7",
+      "Module": "matplotlib-inline"
+    },
+    {
+      "Current Version": "1.24.4",
+      "Latest Version": "1.24.4",
+      "Module": "numpy"
+    },
+    {
+      "Current Version": "2.0.3",
+      "Latest Version": "2.0.3",
+      "Module": "pandas"
+    },
+    {
+      "Current Version": "10.3.0",
+      "Latest Version": "10.3.0",
+      "Module": "pillow"
+    },
+    {
+      "Current Version": "24.0",
+      "Latest Version": "24.0",
+      "Module": "pip"
+    },
+    {
+      "Current Version": "4.25.3",
+      "Latest Version": "5.27.0",
+      "Module": "protobuf"
+    },
+    {
+      "Current Version": "5.9.8",
+      "Latest Version": "5.9.8",
+      "Module": "psutil"
+    },
+    {
+      "Current Version": "3.1.2",
+      "Latest Version": "3.1.2",
+      "Module": "pyparsing"
+    },
+    {
+      "Current Version": "Not installed",
+      "Latest Version": "Not installed",
+      "Module": "python"
+    },
+    {
+      "Current Version": "2.9.0",
+      "Latest Version": "2.9.0.post0",
+      "Module": "python-dateutil"
+    },
+    {
+      "Current Version": "2024.1",
+      "Latest Version": "2024.1",
+      "Module": "pytz"
+    },
+    {
+      "Current Version": "1.3.2",
+      "Latest Version": "1.3.2",
+      "Module": "scikit-learn"
+    },
+    {
+      "Current Version": "1.10.1",
+      "Latest Version": "1.10.1",
+      "Module": "scipy"
+    },
+    {
+      "Current Version": "0.12.2",
+      "Latest Version": "0.13.2",
+      "Module": "seaborn"
+    },
+    {
+      "Current Version": "1.16.0",
+      "Latest Version": "1.16.0",
+      "Module": "six"
+    },
+    {
+      "Current Version": "3.5.0",
+      "Latest Version": "3.5.0",
+      "Module": "threadpoolctl"
+    },
+    {
+      "Current Version": "Not installed",
+      "Latest Version": "Not installed",
+      "Module": "werkzeug"
+    }
+  ]
+}
+
+
+Test Data
+
+Model Predictions
+[
+  0,
+  1,
+  1,
+  1,
+  1
+]
+
+Model Score
+{
+  "f1_score": 0.5714285714285715
+}

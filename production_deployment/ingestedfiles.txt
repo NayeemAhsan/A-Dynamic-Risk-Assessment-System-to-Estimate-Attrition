@@ -1,0 +1,3 @@
+Ingestion date: 04/06/2024 16:11:21
+practicedata/dataset2.csv
+practicedata/dataset1.csv
